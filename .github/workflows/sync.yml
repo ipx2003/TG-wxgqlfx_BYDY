@@ -20,5 +20,5 @@ jobs:
         with:
           target_sync_branch: main
           target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-          upstream_sync_repo: wentao883/TG-wxgqlfx_ZBDW # 例如: facebook/react
+          upstream_sync_repo: wentao883/TG-wxgqlfx_BYDY # 例如: facebook/react
           upstream_sync_branch: main
